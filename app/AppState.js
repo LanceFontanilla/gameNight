@@ -15,7 +15,7 @@ class ObservableAppState extends EventEmitter {
   ]
 
 
-
+  page = ''
 
 
 
